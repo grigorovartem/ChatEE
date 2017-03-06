@@ -1,0 +1,8 @@
+target/
+logs/
+media/
+out/
+ChatServer2.iml/
+GetThread.java/
+JsonMessages.java/
+Utils.java/
